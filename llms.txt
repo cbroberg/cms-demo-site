@@ -1,0 +1,55 @@
+# CMS Demo
+
+> AI-native content engine
+
+## Pages
+
+- [About](https://cbroberg.github.io/cms-demo-site/cms-demo-site/about/): 30 years of CMS heritage. 1,000+ websites shipped. One lesson: complexity kills.
+- [Om os](https://cbroberg.github.io/cms-demo-site/cms-demo-site/about-da/): 30 års CMS-arv. 1.000+ websites leveret. Én lektie: kompleksitet dræber.
+- [From Static HTML to AI-Powered Content: The History of CMS (1995–2026)](https://cbroberg.github.io/cms-demo-site/cms-demo-site/blog/history-of-cms/): Content management systems have quietly shaped the web for three decades. From hand-coded HTML files on FTP servers to headless, AI-integrated platforms — here's the full story.
+- [Fra statisk HTML til AI-drevet indhold: CMS'ets historie (1995–2026)](https://cbroberg.github.io/cms-demo-site/cms-demo-site/blog/history-of-cms-da/): Content management systemer har stille formet nettet i tre årtier. Fra håndkodede HTML-filer på FTP-servere til headless, AI-integrerede platforme — her er den fulde historie.
+- [Blog — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/blog/): Architecture decisions and development chronicles for @webhouse/cms.
+- [The Age of the Agentic CMS Is Here](https://cbroberg.github.io/cms-demo-site/cms-demo-site/blog/the-agentic-cms/): The CMS landscape is undergoing its biggest shift since WordPress. Here's what's happening — and why we built @webhouse/cms from scratch to meet this moment.
+- [Det agentiske CMS' tidsalder er her](https://cbroberg.github.io/cms-demo-site/cms-demo-site/blog/the-agentic-cms-da/): CMS-landskabet gennemgår sit største skifte siden WordPress. Her er hvad der sker — og hvorfor vi byggede @webhouse/cms fra bunden for at møde dette øjeblik.
+- [CMS Chronicle #12: The AI-Native Editor](https://cbroberg.github.io/cms-demo-site/cms-demo-site/blog/the-ai-native-editor/): 748 commits in 11 days. We shipped a conversational CMS interface, upgraded the richtext editor to TipTap v3, built a media processing pipeline, and discovered a save bug that had been hiding since day one.
+- [CMS Krønike #12: Den AI-native editor](https://cbroberg.github.io/cms-demo-site/cms-demo-site/blog/the-ai-native-editor-da/): 748 commits på 11 dage. Vi leverede en samtalebaseret CMS-grænseflade, opgraderede richtext-editoren til TipTap v3, byggede en mediebehandlings-pipeline og opdagede en gemme-bug der havde gemt sig siden dag ét.
+- [Why We're Building This](https://cbroberg.github.io/cms-demo-site/cms-demo-site/blog/why-we-are-building-this/): A CMS is not a product decision. It's a philosophical one. We've shipped over 1,000 websites. Here's why we're building a new opinionated CMS anyway.
+- [Hvorfor vi bygger dette](https://cbroberg.github.io/cms-demo-site/cms-demo-site/blog/why-we-are-building-this-da/): Et CMS er ikke en produktbeslutning. Det er en filosofisk. Vi har leveret over 1.000 websites. Her er hvorfor vi bygger et nyt meningsfuldt CMS alligevel.
+- [About](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/about/): 30 years of CMS heritage. 1,000+ websites shipped. One lesson: complexity kills.
+- [From Static HTML to AI-Powered Content: The History of CMS (1995–2026)](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/blog/history-of-cms/): Content management systems have quietly shaped the web for three decades. From hand-coded HTML files on FTP servers to headless, AI-integrated platforms — here's the full story.
+- [Blog — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/blog/): Arkitekturbeslutninger og udviklingshistorier for @webhouse/cms.
+- [The Age of the Agentic CMS Is Here](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/blog/the-agentic-cms/): The CMS landscape is undergoing its biggest shift since WordPress. Here's what's happening — and why we built @webhouse/cms from scratch to meet this moment.
+- [CMS Chronicle #12: The AI-Native Editor](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/blog/the-ai-native-editor/): 748 commits in 11 days. We shipped a conversational CMS interface, upgraded the richtext editor to TipTap v3, built a media processing pipeline, and discovered a save bug that had been hiding since day one.
+- [Why We're Building This](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/blog/why-we-are-building-this/): A CMS is not a product decision. It's a philosophical one. We've shipped over 1,000 websites. Here's why we're building a new opinionated CMS anyway.
+- [Features](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/features/): Everything @webhouse/cms can do — from AI agents to static builds.
+- [Forside — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/): CMS
+- [Quick Start](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/quick-start/): Scaffold a new project and have a CMS-powered site running in under 5 minutes.
+- [agentisk — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/tags/agentisk/): Indlæg tagget med &quot;agentisk&quot;
+- [ai — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/tags/ai/): Indlæg tagget med &quot;ai&quot;
+- [arkitektur — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/tags/arkitektur/): Indlæg tagget med &quot;arkitektur&quot;
+- [cms — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/tags/cms/): Indlæg tagget med &quot;cms&quot;
+- [editor — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/tags/editor/): Indlæg tagget med &quot;editor&quot;
+- [filosofi — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/tags/filosofi/): Indlæg tagget med &quot;filosofi&quot;
+- [historie — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/tags/historie/): Indlæg tagget med &quot;historie&quot;
+- [Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/tags/): Gennemse alle emner
+- [krønike — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/tags/krønike/): Indlæg tagget med &quot;krønike&quot;
+- [mcp — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/tags/mcp/): Indlæg tagget med &quot;mcp&quot;
+- [tiptap — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/da/tags/tiptap/): Indlæg tagget med &quot;tiptap&quot;
+- [Features](https://cbroberg.github.io/cms-demo-site/cms-demo-site/features/): Everything @webhouse/cms can do — from AI agents to static builds.
+- [Features](https://cbroberg.github.io/cms-demo-site/cms-demo-site/features-da/): Alt hvad @webhouse/cms kan — fra AI-agenter til statiske builds.
+- [Home — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/): The CMS where you describe what you want and get a production-ready site.
+- [Quick Start](https://cbroberg.github.io/cms-demo-site/cms-demo-site/quick-start/): Scaffold a new project and have a CMS-powered site running in under 5 minutes.
+- [Kom i gang](https://cbroberg.github.io/cms-demo-site/cms-demo-site/quick-start-da/): Opret et nyt projekt og hav et CMS-drevet site kørende på under 5 minutter.
+- [agentic — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/tags/agentic/): Posts tagged &quot;agentic&quot;
+- [ai — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/tags/ai/): Posts tagged &quot;ai&quot;
+- [architecture — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/tags/architecture/): Posts tagged &quot;architecture&quot;
+- [chronicle — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/tags/chronicle/): Posts tagged &quot;chronicle&quot;
+- [cms — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/tags/cms/): Posts tagged &quot;cms&quot;
+- [editor — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/tags/editor/): Posts tagged &quot;editor&quot;
+- [history — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/tags/history/): Posts tagged &quot;history&quot;
+- [Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/tags/): Browse all topics
+- [mcp — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/tags/mcp/): Posts tagged &quot;mcp&quot;
+- [philosophy — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/tags/philosophy/): Posts tagged &quot;philosophy&quot;
+- [tiptap — Tags — @webhouse/cms](https://cbroberg.github.io/cms-demo-site/cms-demo-site/tags/tiptap/): Posts tagged &quot;tiptap&quot;
+
+Built with [webhouse.app](https://webhouse.app)

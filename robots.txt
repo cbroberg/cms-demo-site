@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cbroberg.github.io/cms-demo-site/cms-demo-site/sitemap.xml
